@@ -1,0 +1,88 @@
+
+.seccion1 {
+  background-image: url(../images/diente.jpg);
+  
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+
+.imag {
+    padding: 20% 2%;
+    
+}
+
+.container .Titulo1  {
+    color: #0073E0;
+}
+
+.container .Titulo3{
+    color: #054A8D;
+}
+
+#Fase1 {
+    color: #0073E0;
+}
+
+#Fase3 {
+    color: #054A8D;
+}
+
+
+.Medio{
+    color: black;
+    font-weight: 600;
+   
+}
+
+.Medio h1:hover {
+    text-decoration: underline blue;
+}
+
+.start {
+    text-align: center;
+    color:black;
+
+}
+
+#footer {
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+    
+    
+    }
+    
+    #footer a {
+        color: white;
+    
+    }
+
+    .btn-highlight {
+        background-color: #97c93e !important; 
+        color: white;
+    
+    }
+    
+    
+    .btn-highlight:hover {
+        background-color: #82ad36; 
+    }
+
+
+    .bg-light {
+        background-color: white !important;
+    }
+
+  .nav-item {
+    color: white;
+  }
+  a {
+    color: white;
+}
+
+p {
+    font-size: x-large;
+    justify-content: left;
+}
